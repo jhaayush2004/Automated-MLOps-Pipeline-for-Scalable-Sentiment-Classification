@@ -194,3 +194,4 @@ cython_debug/
 .cursorindexingignore
 
 creds.txt
+local_s3/
