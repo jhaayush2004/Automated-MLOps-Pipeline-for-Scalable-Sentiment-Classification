@@ -1,0 +1,6 @@
+artifact_location: file:///D:/Documents/MLOps/Automated-MLOps-Pipeline-for-Scalable-Sentiment-Classification/mlruns/943603683983024203
+creation_time: 1750227530971
+experiment_id: '943603683983024203'
+last_update_time: 1750227530971
+lifecycle_stage: active
+name: sentiment-experiment
