@@ -37,4 +37,6 @@ This project leverages a modern and robust MLOps technology stack to achieve its
 * **Prometheus-Grafana:** For comprehensive monitoring of system metrics, application performance, and setting up alerts.
 * **Pre-requisites:** (This typically refers to foundational tools like `kubectl`, `aws cli`, `minikube` for local development, Python, etc.)
 
+VISIT - [click](https://docs.google.com/document/d/1iUCK06895yOGELGyTAdYr9SRYbzywLPY/edit?usp=sharing&ouid=101578109680909709365&rtpof=true&sd=true)
+
 ---
